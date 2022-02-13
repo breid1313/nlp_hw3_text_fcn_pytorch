@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+nn_classifier.egg-info/PKG-INFO
+nn_classifier.egg-info/SOURCES.txt
+nn_classifier.egg-info/dependency_links.txt
+nn_classifier.egg-info/requires.txt
+nn_classifier.egg-info/top_level.txt

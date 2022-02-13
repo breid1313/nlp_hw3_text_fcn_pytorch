@@ -1,0 +1,6 @@
+datasets
+pytest
+torch
+tokenizers==0.10.0rc1
+tqdm
+toml
