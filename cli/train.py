@@ -101,7 +101,8 @@ def main(args):
     # Our implementation is 2 lines
     # YOUR CODE STARTS
 
-    device = "cuda" if not device and torch.cuda.is_available() else device
+    if not device:
+        device = "cuda" if torch.cuda.is_available() else "cpu"
 
     # YOUR CODE ENDS
 
